@@ -1,0 +1,5 @@
+Visual verification, 2026-09-06:
+- Desktop 1280x900 full-page capture: cinematic dark dashboard renders cleanly with spacious hierarchy, gold accent, four KPI cards, recent analyses, insight card, and portfolio pulse section.
+- Mobile 375x812 capture: responsive header, stacked KPI cards, editorial greeting, and fixed bottom navigation render correctly without horizontal overflow.
+- TypeScript check and production build both pass.
+- Note: full-page capture hides fixed sidebar chrome by design; mobile capture confirms the compact header and nav treatment.
