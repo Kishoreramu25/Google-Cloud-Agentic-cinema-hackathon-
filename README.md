@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 AI Script Analyzer Agent
+# Google Sponsored Agentic cinema Hackathon
 
 > **Autonomous AI Agent for Professional Script Analysis**
 
